@@ -6,11 +6,11 @@ namespace Library.Canvas
     {
         public Course()
         {
-            course_name = "/0";
-            course_id = "/0";
+            course_name = string.Empty;
+            course_id = string.Empty;
             current_students = 0;
             max_students = 0;
-            course_description = "/0";
+            course_description = string.Empty;
             course_roster = new List<Student>();
             course_assignments = new List<Assignment>();
             course_modules = new List<Module>();
@@ -44,9 +44,9 @@ namespace Library.Canvas
     {
         public Student()
         {
-            student_name = "/0";
-            student_id = "/0";
-            student_classification = "/0";
+            student_name = string.Empty;
+            student_id = string.Empty;
+            student_classification = string.Empty;
             student_grades = new Dictionary<Assignment, double>();
             student_courses = new List<Course>();
         }
@@ -72,8 +72,8 @@ namespace Library.Canvas
     {
         public Assignment()
         {
-            assignment_name = "/0";
-            assignment_description = "/0";
+            assignment_name = string.Empty;
+            assignment_description = string.Empty;
             assignment_id = 0;
             due_date = default(DateTime);
             assignment_points = 0;
@@ -99,8 +99,8 @@ namespace Library.Canvas
     {
         public Module()
         {
-            module_name = "/0";
-            module_description = "/0";
+            module_name = string.Empty;
+            module_description = string.Empty;
             content_list = new List<ContentItem>();
         }
         public string module_name { get; set; }
@@ -112,9 +112,9 @@ namespace Library.Canvas
     {
         public ContentItem()
         {
-            content_name = "/0";
-            content_description = "/0";
-            content_path = "/0";
+            content_name = string.Empty;
+            content_description = string.Empty;
+            content_path = string.Empty;
         }
         public string content_name { get; set; }
         public string content_description { get; set; }

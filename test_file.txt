@@ -1,0 +1,122 @@
+1
+Biology
+BIO3230
+120
+BIO FUN
+1
+Math
+MATH101
+110
+MATH FUN
+1
+Calc
+CALC2
+100
+CALC FUN
+1
+Computers
+COMP2120
+90
+COMP FUN
+1
+English
+ENC1101
+85
+ENGLISH FUN
+2
+Daniel Halterman
+drh22a
+Freshman
+2
+Brad Bean
+bgm33b
+Sophmore
+2
+Chad Chungus
+ccc44d
+Junior
+2
+Bugs Bunny
+bfb73a
+Senior
+2
+Lola Bunny
+lfb72d
+Freshman
+3
+Calc
+Brad Bean
+3
+Biology
+Daniel Halterman
+3
+English
+Daniel Halterman
+3
+Calc
+Chad Chungus
+4
+Calc
+Brad Bean
+5
+6
+MATH FUN
+7
+8
+Chad Chungus
+9
+Daniel Halterman
+10
+English
+1
+Englush
+10
+Englush
+2
+ENC1102
+10
+Englush
+3
+65
+10
+Englush
+4
+105
+10
+Englush
+5
+English is ok
+11
+Lola Bunny
+1
+Loooola Bunny
+11
+Loooola Bunny
+2
+loooola222
+11
+Loooola Bunny
+3
+Senior
+12
+Bio_intro_assignment
+Assign1
+100
+2023
+02
+23
+23
+59
+59
+Biology
+12
+Bio_second_assignment
+Mammoth Essay
+200
+2023
+02
+23
+11
+59
+59
+Biology
